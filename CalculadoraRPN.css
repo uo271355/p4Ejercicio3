@@ -1,0 +1,35 @@
+.button{
+	color:black;
+	width:35px;
+	height:30px;
+	background-color:#B9E8EE;
+	border-color:#B9E8EE;
+}
+.enter{
+	width:72px;
+	color:black;
+	height:30px;
+	background-color:#B9E8EE;
+	border-color:#B9E8EE;
+}
+.pantalla{
+	width:190px;
+	height:30px;
+	background-color:white;
+}
+h1{
+	box-sizing:border-box;
+	margin-left:100px;
+	margin-right:1050px;
+	color:#108392;
+	background-color:#E7F5F7;
+	text-align:center;
+}
+.calculadora{
+	box-sizing:border-box;
+	margin-left:100px;
+	margin-right:1050px;
+	color:black;
+	background-color:#A7E6ED;
+	border-color:#A7E6ED;
+}
